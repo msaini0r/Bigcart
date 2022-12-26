@@ -22,7 +22,6 @@
     </p>
   </tr>
 </table>
-
 <hr>
 
 <h1 align="center">⚡Connect with me⚡</h1>
