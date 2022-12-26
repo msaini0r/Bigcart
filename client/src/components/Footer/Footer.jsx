@@ -53,9 +53,7 @@ const Footer = () => {
       </div>
       <div className="bottom-bar">
         <div className="bottom-bar-content">
-          <span className="text">
-            BIGCART 2022 CREATED BY MOHIT SAINI PREMIUM E-COMMERCE SOLUTIONS.
-          </span>
+          <span className="text">BIGCART 2023 CREATED BY MOHIT SAINI</span>
           <img src={Payment} alt="" />
         </div>
       </div>
