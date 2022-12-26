@@ -9,9 +9,10 @@ const Footer = () => {
         <div className="col">
           <div className="title">About</div>
           <div className="text">
-            Voluptatem accusantium doloremque laudantium, totam rem aperiam,
-            eaque ipsa quae ab illo inventore veritatis et quasi architecto
-            beatae vitae dicta sunt explicabo eaque ipsa quae ab illo.
+            Bigcart is a ecommerce store since 1977 trusted by thousands of
+            customers. We have a wide range of items which suits your needs.
+            Choose your favourite products from more than 100 brands without
+            worrying about quality.
           </div>
         </div>
         <div className="col">
@@ -19,8 +20,7 @@ const Footer = () => {
           <div className="c-item">
             <FaLocationArrow />
             <div className="text">
-              Kayaloram Rd, Punnamada, Kottankulangara, Alappuzha, Kerala,
-              688006
+              79 Manor Station St. Baldwinsville, NY 13027
             </div>
           </div>
           <div className="c-item">

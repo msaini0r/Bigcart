@@ -5,10 +5,11 @@ const Banner = () => {
     <div className="hero-banner">
       <div className="content">
         <div className="text-content">
-          <h1>Sale</h1>
+          <h1>Beats Studio3</h1>
           <p>
-            Buy latest electronic gadgets at 20% discount during Christmas
-            holiday sale only at our website. The sale start's on 25 Dec.
+            A sleek, streamlined, and forldable design, plus seamless setup via
+            the new QI chip, means these are more durable and portable enough to
+            stay on the move with you.
           </p>
           <div className="ctas">
             <div className="banner-cta">Read More</div>
