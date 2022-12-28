@@ -1,12 +1,12 @@
 # Bigcart Ecommerce Application💰🛒
 
-<!-- ### you can check this repository by clicking here<a href="https://dynamic-platypus-257787.netlify.app"> - Link</a> -->
+### you can check this repository by clicking here<a href="https://transcendent-tulumba-8d7b19.netlify.app"> - Link</a>
 
 ### Steps to Start the App
 
-#### 1) Install the Client Dependencies
+#### 1) Install the Client & server Dependencies
 
-#### 2) Now start the client by npm start.
+#### 2) Now start the client by running "npm start" & server by running "npm run develop" in terminal.
 
 <hr>
 
