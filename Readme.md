@@ -1,6 +1,6 @@
 # Bigcart Ecommerce Application💰🛒
 
-### you can check this repository by clicking here<a href="https://transcendent-tulumba-8d7b19.netlify.app"> - Link</a>
+<!-- ### you can check this repository by clicking here<a href="https://transcendent-tulumba-8d7b19.netlify.app"> - Link</a> -->
 
 ### Steps to Start the App
 
