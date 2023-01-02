@@ -37,7 +37,7 @@ const Header = () => {
             <li onClick={() => navigate("/category/1")}>Categories</li>
           </ul>
           <div className="center" onClick={() => navigate("/")}>
-            JSDEVSTORE.
+            BIGCART
           </div>
           <div className="right">
             <TbSearch onClick={() => setSearchModal(true)} />

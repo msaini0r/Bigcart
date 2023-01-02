@@ -35,12 +35,12 @@
       }
     }
     .center {
-      font-size: 22px;
+      font-size: 25px;
       font-weight: 700;
       cursor: pointer;
       @include md {
         font-size: 34px;
-        transform: translateX(-50%);
+        transform: translateX(-10%);
       }
     }
     .right {
