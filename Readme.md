@@ -1,8 +1,8 @@
 # Bigcart Ecommerce Application💰🛒
 
-## you can check this repository by clicking here<a href="https://bigcart-ecommerce.vercel.app/"> - Link</a>
-
-<hr>
+<!-- ## you can check this repository by clicking here<a href="https://bigcart-ecommerce.vercel.app/"> - Link</a> -->
+<!--
+<hr> -->
 
 ### Steps to Start the App
 
